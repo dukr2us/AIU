@@ -11,6 +11,7 @@ namespace ReplaceUkr2Eng
     {
         public static IDictionary Translations = new Hashtable();
 
+
         //static AppSettings()
         //{
         //    var appSettings = ConfigurationManager.AppSettings;
