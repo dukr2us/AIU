@@ -1,0 +1,67 @@
+       Kontraganda – English
+
+MAIN PAGE
+
+Матеріали/Статистика/Звіти – Media publications/ Statistics / Reports 
+Матеріали- Media publications 
+Сьогодні ви занотували 3 статей!- You have annotated ____ articles 
+Обери дату- Choose the date
+Фідбек – Feedback
+Джерело- Source
+соц- Social 
+назва- Title 
+автор- Author
+анотація- Annotator 
+(лінк)- Link
+
+ANNOTATION PAGE
+
+1. Прочитай матеріал за цією адресою:- Read the source material from this link: 
+Назва матеріалу:  - Title
+
+Автор: - Author
+
+Дата публікування: - Date of Publication 
+
+2. Основна тема матеріалу: - Basic topic of material 
+Оберіть тему, що найбільш точно відповідає тексту матеріалу, або вкажіть свій варіант – Choose the topic that summarizes the material 
+
+
+* Редакторські теми: - Editor’s topics
+* Лідери іноземних держав щодо України – World leaders discuss Ukraine 
+* Мирні переговори – Peace talks
+* Інше - Other
+* Українська економіка – Ukrainian economy 
+* Катастрофа рейсу МН-17- MH-17 crash
+* Енергетика України – Ukrainian industry 
+* Не має відношення до України – Not related to Ukraine
+* Крим - Crimea
+* Економічні санкції проти Росії – Sanctions against Russia
+* Російський "гуманітарний" конвой – Russian “humanitarian” aid 
+* Українські міжнародні відносини – Ukrainian international relations
+* Бойові дії на Сході України- Eastern Ukrainian conflict
+* 
+* 
+3. Ілюстрація/фотографія по відношенню до тексту (якщо наявна) є
+Are there any illustrations present?
+
+Фото – photograph
+Відео - Video
+Фото+відео – Photograph + Video
+Відсутнє – none
+
+4. Як від прочитання цієї статті може змінитися ставлення читача до України?
+What opinion does the author formulate about Ukraine 
+позитив - positive
+негатив - negative
+нейтрально – neutral 
+
+
+5. Особливі нотатки (примітки)
+Notes for the editor/ Comments 
+
+
+Закрити/Закінчити
+Close / Submit 
+
+
