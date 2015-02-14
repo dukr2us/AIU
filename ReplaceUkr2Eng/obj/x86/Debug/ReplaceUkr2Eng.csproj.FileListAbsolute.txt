@@ -1,7 +1,0 @@
-C:\DP-Personal\AIU\ReplaceUkr2Eng\bin\Debug\ReplaceUkr2Eng.exe
-C:\DP-Personal\AIU\ReplaceUkr2Eng\bin\Debug\ReplaceUkr2Eng.pdb
-C:\DP-Personal\AIU\ReplaceUkr2Eng\obj\x86\Debug\ReplaceUkr2Eng.FormMainReplace.resources
-C:\DP-Personal\AIU\ReplaceUkr2Eng\obj\x86\Debug\ReplaceUkr2Eng.Properties.Resources.resources
-C:\DP-Personal\AIU\ReplaceUkr2Eng\obj\x86\Debug\ReplaceUkr2Eng.csproj.GenerateResource.Cache
-C:\DP-Personal\AIU\ReplaceUkr2Eng\obj\x86\Debug\ReplaceUkr2Eng.exe
-C:\DP-Personal\AIU\ReplaceUkr2Eng\obj\x86\Debug\ReplaceUkr2Eng.pdb
